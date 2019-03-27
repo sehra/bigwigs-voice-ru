@@ -1,0 +1,4 @@
+package-as: BigWigs_Voice_RU
+
+ignore:
+  - Tools
